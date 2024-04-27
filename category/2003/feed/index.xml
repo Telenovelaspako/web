@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2003 archivos - Telenovelaspako</title>
+	<atom:link href="https://telenovelaspako.github.io/web/category/2003/feed/" rel="self" type="application/rss+xml" />
+	<link>https://telenovelaspako.github.io/web/category/2003/</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Apr 2024 19:36:28 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Perfume de verano 2003 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:29:39 +0000</pubDate>
+				<category><![CDATA[2003]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=111</guid>
+
+					<description><![CDATA[<p>El primer amor de Min Woo muere en un trágico accidente, dejando su corazón a donación, qué abatido por la muerte de su novia, decide viajar a París a estudiar, pero cuando regresa a Corea, el destino se... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/">Perfume de verano 2003 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/cJMrxZKt/dpv0.webp" alt="cover Perfume de verano 2003" title="">
+</div>
+<p class="tex01">
+El primer amor de Min Woo muere en un trágico accidente, dejando su corazón a donación, qué abatido por la muerte de su novia, decide viajar a París a estudiar, pero cuando regresa a Corea, el destino se encarga de unir a Min Woo con Hye Won, sin saber que ella es quién lleva el corazón de su primer amor.
+<br><br>
+Aroma de Verano o perfume de verano español latino, es una serie de television dramática de 20 episodios emitida en el año 2003 en Corea. Es la tercera entrega de la serie de cuatro partes Endless Love drama producido por Corea del sur por KBS TV Network.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/nzFMM57R/dpv1.webp" alt="cover Perfume de verano 2003"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/T-vjie4kWx4" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Perfume de verano (Yeoreum Hyangging)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2003</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>700 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/d1pYK412" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/g7sRwE9j" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/">Perfume de verano 2003 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pedro el escamoso 2001 [capítulos completos] [720p] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/</link>
+					<comments>https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:28:12 +0000</pubDate>
+				<category><![CDATA[2001]]></category>
+		<category><![CDATA[2003]]></category>
+		<category><![CDATA[Comedia]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=108</guid>
+
+					<description><![CDATA[<p>Esta novela trata un hombre inculto pero encantador, capaz de hablar de cualquier cosa, que vive en un pequeño pueblo de Colombia. Se muda a la ciudad para buscar fortuna y se encuentra con una serie de eventos... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/">Pedro el escamoso 2001 [capítulos completos] [720p] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/c4tstHJf/pe0.webp" alt="cover Pedro el escamoso 2001" title="">
+</div>
+<p class="tex01">
+Esta novela trata un hombre inculto pero encantador, capaz de hablar de cualquier cosa, que vive en un pequeño pueblo de Colombia. Se muda a la ciudad para buscar fortuna y se encuentra con una serie de eventos y personas que cambian su vida dramáticamente. Pedro es la personificación de un hombre que puede conseguir todas las mujeres que quiere, pero no puede conseguir a la que ama. 
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/JzwRNLyv/pe1.webp" alt="cover Pedro el escamoso 2001"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/2mEJlbi7xGw" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Pedro el escamoso</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Comedia / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2001 &#8211; 2003</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>327</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>350 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/3ztvNr3J" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/BCE9yDwQ" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/">Pedro el escamoso 2001 [capítulos completos] [720p] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chocolate con pimienta 2003 [capítulos 116] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:18:25 +0000</pubDate>
+				<category><![CDATA[2003]]></category>
+		<category><![CDATA[2004]]></category>
+		<category><![CDATA[Comedia]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=90</guid>
+
+					<description><![CDATA[<p>Ambientada en la ficticia ciudad de Ventura, Brasil, donde la principal fuente económica es una fábrica de chocolates. Ana Francisca, es una joven delicada, dulce, ingenua y romántica, que ha vivido toda su vida en el campo con... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/">Chocolate con pimienta 2003 [capítulos 116] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/15s8dcdy/chop0.webp" alt="cover Chocolate con pimienta 2003" title="">
+</div>
+<p class="tex01">
+Ambientada en la ficticia ciudad de Ventura, Brasil, donde la principal fuente económica es una fábrica de chocolates. Ana Francisca, es una joven delicada, dulce, ingenua y romántica, que ha vivido toda su vida en el campo con su padre, hasta que un día su padre es asesinado. Así se ve obligada a dirigirse a la ciudad de Ventura en la que vive la única familia que le queda. Allí conocerá al amor de su vida, Danilo, pero deberán pasar muchas pruebas para poder ser felices.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/x1Fqcr1d/chop1.webp" alt="cover Chocolate con pimienta 2003"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/AWc3usM9Zd8" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Chocolate con pimienta (Chocolate com pimenta)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Comedia / Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2003 &#8211; 2004</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>116</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>350 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/6HRRpNVd" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/zb5bxMdB" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/">Chocolate con pimienta 2003 [capítulos 116] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Escalera al cielo 2003 [capítulos 20/20] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/escalera-al-cielo-2003-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/escalera-al-cielo-2003-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 17:54:32 +0000</pubDate>
+				<category><![CDATA[2003]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Melodrama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=69</guid>
+
+					<description><![CDATA[<p>Han Jung Suh, es la mejor amiga de Song Joo, un muchacho que solía jugar con ella todo el tiempo y la acompañaba constantemente. Ambos afrontan situaciones adversas en sus hogares, las cuales fortalecen su vínculo de amistad,... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/escalera-al-cielo-2003-capitulos-completos-latino/">Escalera al cielo 2003 [capítulos 20/20] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/MKNq4W5Z/eac0.webp" alt="cover Escalera al cielo 2003" title="">
+</div>
+<p class="tex01">
+Han Jung Suh, es la mejor amiga de Song Joo, un muchacho que solía jugar con ella todo el tiempo y la acompañaba constantemente. Ambos afrontan situaciones adversas en sus hogares, las cuales fortalecen su vínculo de amistad, el cual, de manera intrínseca, está fundamentado en el amor, puesto que están enamorados el uno del otro. Debido a varios acontecimientos, Song Joo debe irse al extranjero a estudiar, mientras que Jung Suh, permanece en su país natal. Tiempo después, el joven vuelve al país y decide encontrarse con su gran amiga, no obstante, un accidente de tránsito le ocasiona pérdida de la memoria.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/T3bfvZNV/eac1.webp" alt="cover Escalera al cielo 2003"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/YuhNs6zfNVs" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Escalera al cielo (천국의 계단)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Melodrama</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2003</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino/coreano</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>800 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/QTaaVwTX" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/escalera-al-cielo-2003-capitulos-completos-latino/">Escalera al cielo 2003 [capítulos 20/20] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/escalera-al-cielo-2003-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

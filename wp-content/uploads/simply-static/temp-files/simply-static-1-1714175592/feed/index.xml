@@ -1,0 +1,2787 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Telenovelaspako</title>
+	<atom:link href="https://telenovelaspako.github.io/web/feed/" rel="self" type="application/rss+xml" />
+	<link>https://telenovelaspako.github.io/web/</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Apr 2024 19:36:28 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Perfume de verano 2003 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:29:39 +0000</pubDate>
+				<category><![CDATA[2003]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=111</guid>
+
+					<description><![CDATA[<p>El primer amor de Min Woo muere en un trágico accidente, dejando su corazón a donación, qué abatido por la muerte de su novia, decide viajar a París a estudiar, pero cuando regresa a Corea, el destino se... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/">Perfume de verano 2003 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/cJMrxZKt/dpv0.webp" alt="cover Perfume de verano 2003" title="">
+</div>
+<p class="tex01">
+El primer amor de Min Woo muere en un trágico accidente, dejando su corazón a donación, qué abatido por la muerte de su novia, decide viajar a París a estudiar, pero cuando regresa a Corea, el destino se encarga de unir a Min Woo con Hye Won, sin saber que ella es quién lleva el corazón de su primer amor.
+<br><br>
+Aroma de Verano o perfume de verano español latino, es una serie de television dramática de 20 episodios emitida en el año 2003 en Corea. Es la tercera entrega de la serie de cuatro partes Endless Love drama producido por Corea del sur por KBS TV Network.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/nzFMM57R/dpv1.webp" alt="cover Perfume de verano 2003"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/T-vjie4kWx4" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Perfume de verano (Yeoreum Hyangging)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2003</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>700 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/d1pYK412" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/g7sRwE9j" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/">Perfume de verano 2003 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/perfume-de-verano-2003-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pedro el escamoso 2001 [capítulos completos] [720p] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/</link>
+					<comments>https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:28:12 +0000</pubDate>
+				<category><![CDATA[2001]]></category>
+		<category><![CDATA[2003]]></category>
+		<category><![CDATA[Comedia]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=108</guid>
+
+					<description><![CDATA[<p>Esta novela trata un hombre inculto pero encantador, capaz de hablar de cualquier cosa, que vive en un pequeño pueblo de Colombia. Se muda a la ciudad para buscar fortuna y se encuentra con una serie de eventos... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/">Pedro el escamoso 2001 [capítulos completos] [720p] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/c4tstHJf/pe0.webp" alt="cover Pedro el escamoso 2001" title="">
+</div>
+<p class="tex01">
+Esta novela trata un hombre inculto pero encantador, capaz de hablar de cualquier cosa, que vive en un pequeño pueblo de Colombia. Se muda a la ciudad para buscar fortuna y se encuentra con una serie de eventos y personas que cambian su vida dramáticamente. Pedro es la personificación de un hombre que puede conseguir todas las mujeres que quiere, pero no puede conseguir a la que ama. 
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/JzwRNLyv/pe1.webp" alt="cover Pedro el escamoso 2001"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/2mEJlbi7xGw" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Pedro el escamoso</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Comedia / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2001 &#8211; 2003</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>327</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>350 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/3ztvNr3J" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/BCE9yDwQ" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/">Pedro el escamoso 2001 [capítulos completos] [720p] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/pedro-el-escamoso-2001-capitulos-completos-720p/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Todo sobre Eva 2000 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/todo-sobre-eva-2000-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/todo-sobre-eva-2000-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:26:35 +0000</pubDate>
+				<category><![CDATA[2000]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=105</guid>
+
+					<description><![CDATA[<p>Es una serie de televisión que salió al aire en el año 2000 por MBC enfocado a dos jóvenes reporteras de noticieros de televisión (interpretadas por Kim So Yeon y Chae Rim) compitiendo por quien hace mejor su... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/todo-sobre-eva-2000-capitulos-completos-latino/">Todo sobre Eva 2000 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/QxrzpC45/dte0.webp" alt="cover Todo sobre Eva 2000" title="">
+</div>
+<p class="tex01">
+Es una serie de televisión que salió al aire en el año 2000 por MBC enfocado a dos jóvenes reporteras de noticieros de televisión (interpretadas por Kim So Yeon y Chae Rim) compitiendo por quien hace mejor su trabajo y otras situaciones de sus vidas personales. Fue realizado por la MBC (una de las televisoras más importantes en Corea) y se compone de 20 episodios. 
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/ZKFMjm2Q/dte1.webp" alt="cover Todo sobre Eva 2000"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/qRR__PiGpgc" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Todo sobre Eva &#8211; All about Eve (이브의 모든 것)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2000</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>650 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/7YjhDq1m" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/yFWFciiN" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/todo-sobre-eva-2000-capitulos-completos-latino/">Todo sobre Eva 2000 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/todo-sobre-eva-2000-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Winter Sonata 2002 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/winter-sonata-2002-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/winter-sonata-2002-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:25:05 +0000</pubDate>
+				<category><![CDATA[2002]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=102</guid>
+
+					<description><![CDATA[<p>Kang Jun Sang (Bae Yong Jun) y Jung Yoo Jin (Choi Ji Woo) se conocen en el autobús que los lleva al colegio (éste se encuentra en un pueblo). Por un lado Jun Sang es un nuevo estudiante... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/winter-sonata-2002-capitulos-completos-latino/">Winter Sonata 2002 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/dVWq530H/si0.webp" alt="cover Winter Sonata 2002" title="">
+</div>
+<p class="tex01">
+Kang Jun Sang (Bae Yong Jun) y Jung Yoo Jin (Choi Ji Woo) se conocen en el autobús que los lleva al colegio (éste se encuentra en un pueblo). Por un lado Jun Sang es un nuevo estudiante llegado desde el Colegio de Ciencias de Seúl y es un chico bastante apático. Por otro lado, aunque él y Yoo Jin son muy diferentes, y al principio no se llevan muy bien llegan a enamorarse poco a poco.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/nLCngxjH/si1.webp" alt="cover Winter Sonata 2002"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/-FZvD_DiLKs" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Winter Sonata &#8211; Sonata de invierno (겨울연가)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2002</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>700 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/gVXn3kYc" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/NSeFtXeh" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/winter-sonata-2002-capitulos-completos-latino/">Winter Sonata 2002 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/winter-sonata-2002-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La pícara soñadora 1991 [capítulos 80/80] [DVDrip] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/</link>
+					<comments>https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:23:23 +0000</pubDate>
+				<category><![CDATA[1991]]></category>
+		<category><![CDATA[1992]]></category>
+		<category><![CDATA[Comedia]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=99</guid>
+
+					<description><![CDATA[<p>La Pícara Soñadora es una telenovela mexicana exhibida en 1991, basada en una película argentina del mismo nombre de 1956 dirigida por Ernesto Arancibia. Esta telenovela contiene 80 episodios y está protagonizada por Dina de Marco, Irán Eory,... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/">La pícara soñadora 1991 [capítulos 80/80] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/D0yDbG81/lps0.webp" alt="cover La pícara soñadora 1991" title="">
+</div>
+<p class="tex01">
+La Pícara Soñadora es una telenovela mexicana exhibida en 1991, basada en una película argentina del mismo nombre de 1956 dirigida por Ernesto Arancibia. Esta telenovela contiene 80 episodios y está protagonizada por Dina de Marco, Irán Eory, Eduardo Palomo y Mariana Levy.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/NFJn80HS/lps1.webp" alt="cover La pícara soñadora 1991"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/KbQmeZpQ3KQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>La pícara soñadora</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Comedia / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1991 &#8211; 1992</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>80</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>1 GB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/WXxpT93f" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/">La pícara soñadora 1991 [capítulos 80/80] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mirada de mujer 1997 [capítulos completos] [DVDrip] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/mirada-de-mujer-1997-capitulos-completos-dvdrip/</link>
+					<comments>https://telenovelaspako.github.io/web/mirada-de-mujer-1997-capitulos-completos-dvdrip/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:21:48 +0000</pubDate>
+				<category><![CDATA[1997]]></category>
+		<category><![CDATA[1998]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=96</guid>
+
+					<description><![CDATA[<p>Después de 27 años de matrimonio el prominente abogado Ignacio San Millán decide dejar a su esposa María Inés y a sus hijos, por Daniela, una mujer 30 años menor que él. María Inés debe ahora lidiar con... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/mirada-de-mujer-1997-capitulos-completos-dvdrip/">Mirada de mujer 1997 [capítulos completos] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/nr14ZtCV/mdm0.webp" alt="cover Mirada de mujer 1997" title="">
+</div>
+<p class="tex01">
+Después de 27 años de matrimonio el prominente abogado Ignacio San Millán decide dejar a su esposa María Inés y a sus hijos, por Daniela, una mujer 30 años menor que él. María Inés debe ahora lidiar con la hostilidad de sus hijas quienes la culpan por el abandono de su padre. Es entonces cuando ella conoce a Alejandro Salas, un joven periodista quien es 16 años más joven y está dispuesto a darle el amor y respeto que ella merece.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/L4kBjjNd/mdm1.webp" alt="cover Mirada de mujer 1997"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/A9Hwv2l-qxc" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Mirada de mujer</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1997 &#8211; 1998</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>121</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>350 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/Phb2iF8p" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/3uPycYW6" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/mirada-de-mujer-1997-capitulos-completos-dvdrip/">Mirada de mujer 1997 [capítulos completos] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/mirada-de-mujer-1997-capitulos-completos-dvdrip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>El rey del ganado 1996 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/el-rey-del-ganado-1996-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/el-rey-del-ganado-1996-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:20:06 +0000</pubDate>
+				<category><![CDATA[1996]]></category>
+		<category><![CDATA[1997]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=93</guid>
+
+					<description><![CDATA[<p>Por un lado, la familia Mezenga; por el otro, los Berdinazi. En el centro, una franja de tierra casi insignificante causa de una pelea entre estos dos eternos y obstinados viejos inmigrantes italianos, símbolo de la futilidad de... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/el-rey-del-ganado-1996-capitulos-completos-latino/">El rey del ganado 1996 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/d0GznmRr/terg0.webp" alt="cover El rey del ganado 1996" title="">
+</div>
+<p class="tex01">
+Por un lado, la familia Mezenga; por el otro, los Berdinazi. En el centro, una franja de tierra casi insignificante causa de una pelea entre estos dos eternos y obstinados viejos inmigrantes italianos, símbolo de la futilidad de la materia del hombre. Este es el punto de partida de la trama, que comienza representando la caída del café en el interior, durante el período en que Brasil va a la guerra, y expone una imagen realista de la vida rural y de los sin tierra.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/pTZ3MW6d/terg1.webp" alt="cover El rey del ganado 1996"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/Po62u1ubahs" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>El rey del ganado (Rei do Gado)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1996 &#8211; 1997</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>76</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>350 &#8211; 900 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/Z1yq0PLz" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/uUWBbB83" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/el-rey-del-ganado-1996-capitulos-completos-latino/">El rey del ganado 1996 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/el-rey-del-ganado-1996-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chocolate con pimienta 2003 [capítulos 116] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:18:25 +0000</pubDate>
+				<category><![CDATA[2003]]></category>
+		<category><![CDATA[2004]]></category>
+		<category><![CDATA[Comedia]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=90</guid>
+
+					<description><![CDATA[<p>Ambientada en la ficticia ciudad de Ventura, Brasil, donde la principal fuente económica es una fábrica de chocolates. Ana Francisca, es una joven delicada, dulce, ingenua y romántica, que ha vivido toda su vida en el campo con... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/">Chocolate con pimienta 2003 [capítulos 116] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/15s8dcdy/chop0.webp" alt="cover Chocolate con pimienta 2003" title="">
+</div>
+<p class="tex01">
+Ambientada en la ficticia ciudad de Ventura, Brasil, donde la principal fuente económica es una fábrica de chocolates. Ana Francisca, es una joven delicada, dulce, ingenua y romántica, que ha vivido toda su vida en el campo con su padre, hasta que un día su padre es asesinado. Así se ve obligada a dirigirse a la ciudad de Ventura en la que vive la única familia que le queda. Allí conocerá al amor de su vida, Danilo, pero deberán pasar muchas pruebas para poder ser felices.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/x1Fqcr1d/chop1.webp" alt="cover Chocolate con pimienta 2003"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/AWc3usM9Zd8" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Chocolate con pimienta (Chocolate com pimenta)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Comedia / Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2003 &#8211; 2004</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>116</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>350 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/6HRRpNVd" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/zb5bxMdB" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/">Chocolate con pimienta 2003 [capítulos 116] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/chocolate-con-pimienta-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La esclava Isaura 2004 [capítulos 167/167] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/la-esclava-isaura-2004-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/la-esclava-isaura-2004-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:16:24 +0000</pubDate>
+				<category><![CDATA[2004]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=87</guid>
+
+					<description><![CDATA[<p>La esclava Isaura (o también Isaura, la esclava) es una telenovela brasileña de Rede Record, adaptación de otra telenovela del mismo nombre de 1976 de Rede Globo. La esclava Isaura, se desarrolla en la región fluvial de Campos... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-esclava-isaura-2004-capitulos-completos-latino/">La esclava Isaura 2004 [capítulos 167/167] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/bw1nhBz5/tli0.webp" alt="cover  La esclava Isaura 2004" title="">
+</div>
+<p class="tex01">
+La esclava Isaura (o también Isaura, la esclava) es una telenovela brasileña de Rede Record, adaptación de otra telenovela del mismo nombre de 1976 de Rede Globo. La esclava Isaura, se desarrolla en la región fluvial de Campos de Brasil y se remonta a 1835, cuando el comendador Almeida (Rubens de Falco), dueño de una hacienda del Valle de Paraíba, compra un grupo de esclavos entre los que se encuentra Juliana (Valquiria Ribeiro), noble mujer que muere luego de dar a luz a su hija, Isaura (Bianca Rinaldi), una mulata clara.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/0Nxw20jy/tli1.webp" alt="cover La esclava Isaura 2004"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/yTHa3IR--bY" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>La esclava Isaura</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2004</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>167</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>400 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/DKgKKwYA" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/X6WsKcck" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-esclava-isaura-2004-capitulos-completos-latino/">La esclava Isaura 2004 [capítulos 167/167] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/la-esclava-isaura-2004-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xica da Silva 1997 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/xica-da-silva-1997-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/xica-da-silva-1997-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:14:52 +0000</pubDate>
+				<category><![CDATA[1997]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=84</guid>
+
+					<description><![CDATA[<p>Esta telenovela está inspirada en la vida de Xica da Silva, una de las mujeres más célebres de Brasil, que fue una esclava liberta que vivió a mediados del siglo XVIII en el pueblo del Tijuco (Minas Gerais),... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/xica-da-silva-1997-capitulos-completos-latino/">Xica da Silva 1997 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/HsKJ1xYk/txd0.webp" alt="cover Xica da Silva 1997" title="">
+</div>
+<p class="tex01">
+Esta telenovela está inspirada en la vida de Xica da Silva, una de las mujeres más célebres de Brasil, que fue una esclava liberta que vivió a mediados del siglo XVIII en el pueblo del Tijuco (Minas Gerais), fue concubina del Comendador de turno con quien tuvo trece hijos y se convirtió en la persona más rica y poderosa de la región. Es considerada una de las novelas más famosas sobre la esclavitud junto a La esclava Isaura.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/CKpzdQfy/txd1.webp" alt="cover Xica da Silva 1997"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/dnIH_Ufb0Kc" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Xica da Silva</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1997</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>184</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>270 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/pcwPTGc8" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/DFe9WAdX" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/xica-da-silva-1997-capitulos-completos-latino/">Xica da Silva 1997 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/xica-da-silva-1997-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>La mentira 1998 [capítulos completos] [DVDRip] [Mediafire]</title>
+		<link>https://telenovelaspako.github.io/web/la-mentira-1998-capitulos-completos/</link>
+					<comments>https://telenovelaspako.github.io/web/la-mentira-1998-capitulos-completos/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:13:14 +0000</pubDate>
+				<category><![CDATA[1998]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=81</guid>
+
+					<description><![CDATA[<p>La Mentira nos contó la vida de Demetrio, un hombre que al buscar a su hermano Ricardo en Pueblo Alegre, Jalisco, descubre que se suicidó.El fuerte dolor que siente al saber sobre la muerte de su hermano y... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-mentira-1998-capitulos-completos/">La mentira 1998 [capítulos completos] [DVDRip] [Mediafire]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/c12sgXy9/tlm0.webp" alt="cover La mentira 1998" title="">
+</div>
+<p class="tex01">
+La Mentira nos contó la vida de Demetrio, un hombre que al buscar a su hermano Ricardo en Pueblo Alegre, Jalisco, descubre que se suicidó.El fuerte dolor que siente al saber sobre la muerte de su hermano y la manera en la que lo hizo, provoca una necesidad insaciable de averiguar las causas de esta tragedia. Demetrio encuentra una carta firmada con la letra V y un prendedor con esa misma letra, que utiliza como punto de partida para la búsqueda del culpable.El joven llega a la Ciudad de México y ahí, busca a la familia Fernández Negrete para dar con más pistas sobre la muerte de su hermano. Desafortunadamente, en la familia hay dos mujeres cuyo nombre empieza con V, Verónica y Virginia Fernández Negrete. Ambas son primas hermanas y viven en la misma casa.Las trampas y conspiraciones llevan a Demetrio a creer que la culpable de la muerte de Ricardo es Verónica. Con el fin de cobrar venganza, decide enamorarla y casarse con ella. Al día siguiente de contraer nupcias, Demetrio «secuestra» a su esposa y la lleva a Pueblo Alegre para que pague por su crimen.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/wTN9hL96/tlm1.webp" alt="cover La mentira 1998"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/StGuwK73tOQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>La mentira</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1998</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>100</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>330 MB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/EkUVKuYM" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/ie2kV2Tg" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-mentira-1998-capitulos-completos/">La mentira 1998 [capítulos completos] [DVDRip] [Mediafire]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/la-mentira-1998-capitulos-completos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vals de primavera 2006 [capítulos completos] [latino] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/vals-de-primavera-2006-capitulos-completos-latino/</link>
+					<comments>https://telenovelaspako.github.io/web/vals-de-primavera-2006-capitulos-completos-latino/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:11:39 +0000</pubDate>
+				<category><![CDATA[2006]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=78</guid>
+
+					<description><![CDATA[<p>Para escapar de las deudas, el padre de Lee Su Ho se esconde en una isla remota donde vive su amiga con su hija pequeña Eun Young, que tiene la misma edad que Su Ho. Después de ser... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/vals-de-primavera-2006-capitulos-completos-latino/">Vals de primavera 2006 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container11 {
+ width:60%;
+ margin:10px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container11 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/1Xg6tLKy/vp0.webp" alt="cover Vals de primavera 2006" title="">
+</div>
+<p class="tex01">
+Para escapar de las deudas, el padre de Lee Su Ho se esconde en una isla remota donde vive su amiga con su hija pequeña Eun Young, que tiene la misma edad que Su Ho. Después de ser abandonado por su padre, Su Ho piensa en irse, pero cambia de opinión tras ser conmovido por el puro corazón de Eun Young. Debido a una serie de eventos desafortunados, Su Ho desaparece, mientras que Eun Young está enferma en el hospital. Años después, mientras está de viaje en Austria, Eun Young conoce a un talentoso pianista llamado Jae Ha, un hombre frío de pocas palabras, que se parece a Su Ho. Mientras que su amor empieza a crecer, muchas verdades serán relevadas.
+</p>
+<div class="container11">
+<img decoding="async" class="img00" src="https://i.postimg.cc/L47L78H5/vp1.webp" alt="cover Vals de primavera 2006"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/zlxLcd5DhBw" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>Vals de primavera (Spring Waltz)</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>2006</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>700 MB aprox por cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/bDpWnqMA" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/7kcdf04L" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/vals-de-primavera-2006-capitulos-completos-latino/">Vals de primavera 2006 [capítulos completos] [latino] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/vals-de-primavera-2006-capitulos-completos-latino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

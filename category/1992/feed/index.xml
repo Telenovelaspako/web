@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>1992 archivos - Telenovelaspako</title>
+	<atom:link href="https://telenovelaspako.github.io/web/category/1992/feed/" rel="self" type="application/rss+xml" />
+	<link>https://telenovelaspako.github.io/web/category/1992/</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Apr 2024 19:18:57 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>La pícara soñadora 1991 [capítulos 80/80] [DVDrip] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/</link>
+					<comments>https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Fri, 26 Apr 2024 18:23:23 +0000</pubDate>
+				<category><![CDATA[1991]]></category>
+		<category><![CDATA[1992]]></category>
+		<category><![CDATA[Comedia]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Serie TV]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=99</guid>
+
+					<description><![CDATA[<p>La Pícara Soñadora es una telenovela mexicana exhibida en 1991, basada en una película argentina del mismo nombre de 1956 dirigida por Ernesto Arancibia. Esta telenovela contiene 80 episodios y está protagonizada por Dina de Marco, Irán Eory,... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/">La pícara soñadora 1991 [capítulos 80/80] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/D0yDbG81/lps0.webp" alt="cover La pícara soñadora 1991" title="">
+</div>
+<p class="tex01">
+La Pícara Soñadora es una telenovela mexicana exhibida en 1991, basada en una película argentina del mismo nombre de 1956 dirigida por Ernesto Arancibia. Esta telenovela contiene 80 episodios y está protagonizada por Dina de Marco, Irán Eory, Eduardo Palomo y Mariana Levy.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/NFJn80HS/lps1.webp" alt="cover La pícara soñadora 1991"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/KbQmeZpQ3KQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>La pícara soñadora</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Comedia / Romance / Serie TV</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1991 &#8211; 1992</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>80</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>1 GB aprox x cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/WXxpT93f" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://" rel="nofollow noopener" target="_blank">MEDIAFIRE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/">La pícara soñadora 1991 [capítulos 80/80] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/la-picara-sonadora-1991-capitulos-completos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>María Mercedes 1992 [capítulos completos] [DVDrip] [Mega]</title>
+		<link>https://telenovelaspako.github.io/web/maria-mercedes-1992-capitulos-completos-dvdrip/</link>
+					<comments>https://telenovelaspako.github.io/web/maria-mercedes-1992-capitulos-completos-dvdrip/#respond</comments>
+		
+		<dc:creator><![CDATA[mzpako94]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 22:21:15 +0000</pubDate>
+				<category><![CDATA[1992]]></category>
+		<category><![CDATA[1993]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Suspenso]]></category>
+		<guid isPermaLink="false">https://telenovelaspako.github.io/web/?p=45</guid>
+
+					<description><![CDATA[<p>María Mercedes es una joven humilde que tiene que mantener a su familia sin ninguna otra ayuda. Un día recibe una propuesta de matrimonio por parte de un hombre rico, ya mayor, que cambiará su vida. Es una... </p>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/maria-mercedes-1992-capitulos-completos-dvdrip/">María Mercedes 1992 [capítulos completos] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+.row1{
+padding:0 10px;
+}
+.table{
+  width:100%;
+  margin:30px auto;
+  text-align: left;
+  border-top: 1px solid #0e0e0e;
+  border-right: 1px solid #0e0e0e;
+  border-collapse: collapse;
+  font-family: Sniglet;
+}
+.table td,
+.table th{
+  background: #aaa url(https://i.postimg.cc/FRbnGZ0j/f2.jpg) repeat scroll 0 0;
+  padding:4px 10px;
+  border-left: 1px solid #0e0e0e;
+  border-bottom: 1px solid #0e0e0e;
+  color: #0d0d0d;
+}
+.table th{
+background: #34394D;
+color: #AEAEAE;
+border-color: #0e0e0e;
+text-align: left;
+}
+.frontimg{
+   margin: auto;
+   width: 40%;
+   padding: 0 0 20px;
+}
+.img0{
+   width: 100%;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.tex01{
+   color:#989898;
+}
+.modal {
+ z-index:1;
+ display:none;
+ position:fixed;
+ left:0;
+ top:0;
+ width:100%;
+ height:100%;
+ overflow:auto;
+ background-color:rgba(0, 0, 0, 0.64);
+}
+.modal img {
+position:absolute;
+margin:auto;
+top:0;
+left:0;
+right:0;
+bottom:0;
+max-width:100%;
+max-height:100%;
+}
+.modal-content{
+ margin: auto;
+ display: block;
+}
+.container1 {
+ width:97%;
+ margin:27px auto;
+}
+.img00{
+cursor: pointer;
+width: 100%;
+box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(17,17,17,0.8);
+}
+.modal-content, #caption {
+  animation: 500ms fadeIn;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.video-container {
+position: relative;
+padding-bottom:56.25%;
+height: 0; overflow: hidden;
+box-shadow: 0 4px 8px 0 rgba(9, 9, 9, 0.74);
+margin: 0 9px;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top:0;
+left: 0;
+width:100%;
+height:100%;
+}
+.linkz a{
+  text-decoration: none;
+  color: #d03c0e;
+}
+.linkz a:hover {
+  color: #1608ba;
+}
+@media only screen and (max-width:768px){
+  .table {
+  }
+  .table th,
+  .table td{
+    display: block;
+  }
+}
+@media screen and (max-width: 480px) {
+  .column6 {
+    margin: auto;
+    width: 70%;
+    float: none;
+  }
+  .frontimg{
+    width:100%;
+  }
+  .container1 {
+  width:100%;
+  }
+  .video-container{
+    padding-bottom: 63.25%;
+    margin: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .column6 {
+    width: 100%;
+    float: none;
+  }
+}
+</style>
+<div class="main">
+<div class="row1">
+<div class="frontimg">
+<img decoding="async" class="img0" src="https://i.postimg.cc/GpQsZC8T/mar0.webp" alt="cover María Mercedes 1992" title="">
+</div>
+<p class="tex01">
+María Mercedes es una joven humilde que tiene que mantener a su familia sin ninguna otra ayuda. Un día recibe una propuesta de matrimonio por parte de un hombre rico, ya mayor, que cambiará su vida. Es una telenovela mexicana realizada en 1992 para Televisa, cuenta con un elenco conformado por Arturo Peniche, Carmen Salinas, Laura Zapata, Meche Barba, Rosa Carmina y Fernando Colunga.
+</p>
+<div class="container1">
+<img decoding="async" class="img00" src="https://i.postimg.cc/FRHJvB3W/mar1.webp" alt="cover María Mercedes 1992"
+onclick="onClick(this)">
+</div>
+<div id="modal01" class="modal" onclick="this.style.display='none'">
+<div class="modal-content">
+<img id="img01">
+</div>
+</div>
+<br>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/hMNznuN2AlY" frameborder="0" allowfullscreen></iframe>
+</div>
+<table class="table">
+  <tr>
+    <th>Título</th>
+    <td>María Mercedes</td>
+  </tr>  
+  <tr>
+    <th>Género</th>
+    <td>Drama / Romance / Suspenso</td>
+  </tr>
+  <tr>
+    <th>Año</th>
+    <td>1992 &#8211; 1993</td>
+  </tr>
+    <tr>
+    <th>Episodios</th>
+    <td>82</td>
+  </tr>
+  <tr>
+    <th>Idioma</th>
+    <td>latino</td>
+  </tr>
+  <tr>
+    <th>Tamaño</th>
+    <td>250 MB aprox por cap</td>
+  </tr>
+  <tr>
+    <th>Contraseña</th>
+    <td>Telenovel@z2E7</td>
+  </tr>
+  <tr>
+    <th>Descarga</th>
+    <td class="linkz"><a href="https://pastebin.com/LHTBZgyp" rel="nofollow noopener" target="_blank">MEGA</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pastebin.com/Zd2jc7ZF" rel="nofollow noopener" target="_blank">GOOGLE DRIVE</a> </td>
+  </tr>
+</table>
+</div>
+</div>
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
+<p>La entrada <a href="https://telenovelaspako.github.io/web/maria-mercedes-1992-capitulos-completos-dvdrip/">María Mercedes 1992 [capítulos completos] [DVDrip] [Mega]</a> se publicó primero en <a href="https://telenovelaspako.github.io/web">Telenovelaspako</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://telenovelaspako.github.io/web/maria-mercedes-1992-capitulos-completos-dvdrip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
